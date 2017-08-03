@@ -1,0 +1,5 @@
+1.  To increase performance use bloom filter.
+2.  Multiple storage nodes needed according to paper.
+3.  Average power conjumption, average space conjumption, for submission, for a sensor -- graph.
+4. regular results of all nodes.
+5. atractive out put...
